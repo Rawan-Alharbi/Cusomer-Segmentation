@@ -4,8 +4,8 @@ Third project in Udacity's data science nanodegree (unsupervised learning)
 ### Table of Contents
 1. [Installation](https://github.com/rawan231/Cusomer-Segmentation#Installation)
 2. [Project Overview](https://github.com/rawan231/Cusomer-Segmentation#Project-Overview)
-3. [Project Motivation](https://github.com/rawan231/Cusomer-Segmentation#Project Motivation)
-4. [File Description]((https://github.com/rawan231/Cusomer-Segmentation#File-Description)
+3. [Project Motivation](https://github.com/rawan231/Cusomer-Segmentation#Project-Motivation)
+4. [File Description](https://github.com/rawan231/Cusomer-Segmentation#File-Description)
 
 ### Installation
 This project uses Python 3 and is designed to be completed through the Jupyter Notebooks IDE. It is highly recommended that you use the Anaconda distribution to install Python, since the distribution includes all necessary Python libraries as well as Jupyter Notebooks. The following libraries are expected to be used in this project:
